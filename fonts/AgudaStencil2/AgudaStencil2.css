@@ -1,0 +1,24 @@
+@font-face
+{
+    font-family: AgudaStencil2;
+    font-weight: normal;
+    font-style: normal;
+    src: url('../../fonts/agudastencil2/agudastencil2regular.eot');
+    src: url('../../fonts/agudastencil2/agudastencil2regular.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/agudastencil2/agudastencil2regular.otf') format('opentype'),
+         url('../../fonts/agudastencil2/agudastencil2regular.woff') format('woff'),
+         url('../../fonts/agudastencil2/agudastencil2regular.ttf') format('truetype'),
+         url('../../fonts/agudastencil2/agudastencil2regular.svg#agudastencil2') format('svg');
+}
+@font-face
+{
+    font-family: AgudaStencil2;
+    font-weight: bold;
+    font-style: normal;
+    src: url('../../fonts/agudastencil2/agudastencil2bold.eot');
+    src: url('../../fonts/agudastencil2/agudastencil2bold.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/agudastencil2/agudastencil2bold.otf') format('opentype'),
+         url('../../fonts/agudastencil2/agudastencil2bold.woff') format('woff'),
+         url('../../fonts/agudastencil2/agudastencil2bold.ttf') format('truetype'),
+         url('../../fonts/agudastencil2/agudastencil2bold.svg#agudastencil2') format('svg');
+}
